@@ -59,8 +59,8 @@ global.cocriador = "554598527531@s.whatsapp.net"
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⌬
 
 // BOT NUMER)
-global.botNumberCode = "+7 900 164-37-52" //example: +59309090909
-global.confirmCode = "+7 900 164-37-52"
+global.botNumberCode = "+254768683438" //example: +59309090909
+global.confirmCode = "+254768683438"
 
 global.mods = []
 global.prems = ["528451003894"]
